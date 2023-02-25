@@ -8,6 +8,8 @@
 1. В качестве результата присылайте проверяющему ссылки на ваши GitHub-проекты
 
 ---
+[![DOM Loading and Sorting](https://github.com/Turovae/ahj-dom-datasort/actions/workflows/web.yml/badge.svg)](https://github.com/Turovae/ahj-dom-datasort/actions/workflows/web.yml)
+[![Build status](https://ci.appveyor.com/api/projects/status/9acrf3xgvwivi2r8?svg=true)](https://ci.appveyor.com/project/Turovae/ahj-dom-datasort)
 
 ### Loading and Sorting, data-attributes (задача со звёздочкой)
 
